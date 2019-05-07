@@ -1,0 +1,100 @@
+p {
+   font-family:"Atorak";
+   font-size: 12px;
+   color: white
+}
+
+html { 
+    background: url("images/static.png") no-repeat center fixed;
+    background-size: cover;
+}
+
+
+
+.moon-class{
+    width: 500px;
+    border-radius: 25px;
+    box-shadow: 2px 2px rgb(0, 0, 0);
+    margin: 30px auto;
+    padding:10px 100px;
+    background-color: black;
+
+}
+body {  
+    width: 1000px;
+    margin: auto; 
+    padding: 10px 100px;
+
+}
+
+
+h1,h2 { 
+    font-family: 'Raleway',sans-serif;
+}
+
+h2 {
+     font-variant: small-caps;
+     color: white;
+     text-align: center;
+     letter-spacing: 2px;
+     font-size: 45px;
+     text-shadow: 2px 2px black;
+     font-family: 'Kalam', cursive;
+
+    
+}
+
+p, ul {
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 0.5px;
+}
+
+.moon {color:white; 
+
+}
+
+.css { color: blue;
+}
+
+.js{color: rgb(230, 233, 73) 
+}
+
+/* Link Styles */
+a { color: tomato;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p:hover {
+    color:yellow ; 
+
+}
+
+.cs { border: 3px solid blue;
+    width: 500px;
+    border-radius: 25px;
+    box-shadow: 2px 2px royalblue;
+    margin: 30px auto;
+    padding:10px 100px;
+    background-color: azure; 
+}
+
+.jss {border: 3px solid yellow;
+    width: 500px;
+    border-radius: 25px;
+    box-shadow: 2px 2px goldenrod;
+    margin: 30px auto;
+    padding:10px 100px;
+    background-color: azure; 
+}
+
+h1 {
+    color: whitesmoke;
+    text-align:center; 
+    letter-spacing: 2px;
+    font-size:45px;
+}
+

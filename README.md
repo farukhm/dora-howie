@@ -1,2 +1,2 @@
-# dora-howie
-My name is Farukh, I like long walks on the beach.
+# cs10-project
+Farukh the complainer and Asmar the great project!
