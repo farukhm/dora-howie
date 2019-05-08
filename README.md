@@ -1,2 +1,2 @@
-# cs10-project
-Farukh the complainer and Asmar the great project!
+# pbj-assignment
+Peanut Butter and Jam Assignment for Intro to Web Development
