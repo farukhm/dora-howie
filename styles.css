@@ -5,39 +5,106 @@ border-radius: 25px;
 width:600px;
 margin: 50px auto;
 padding: 40px 75px;
-background-color: white;
+background-color: rgb(56, 55, 148) ;
+background-size: cover;
+color: rgb(38, 37, 95);
 }
 
 .flight{
-    border: 2px solid rgb(38, 114, 228);
+    border: 2px solid blue;
     box-shadow: 2px 2px rgb(37, 17, 220);
     text-align: center;
-}
-.captain{
-    border: 2px solid rgb(14, 38, 218);
-    box-shadow: 2px 2px rgb(30, 70, 157);
-    text-align: center;
+    width: 400px;
+    background-color: rgb(107, 89, 191);
 }
 .occupants{
-    border: 2px solid rgb(232, 9, 9);
-    box-shadow: 2px 2px rgb(238, 49, 7);
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
     text-align: center;
+    width:400px;
+    background-color: white;
+}
+.captain{
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
+    text-align: center;
+    width: 400px;
+    background-color: rgb(107, 89, 191);
 }
 .trueorfalse{
-    border: 2px solid rgb(233, 52, 11);
-    box-shadow: 2px 2px rgb(225, 13, 13);
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
     text-align: center;
+    width: 400px;
+    background-color: white;
+}
+.airport {
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
+    text-align: center;
+    width: 400px;
+    background-color:rgb(107, 89, 191) ;
+}
+.horse {
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
+    text-align: center;
+    width: 400px;
+    background-color:white;
+}
+.runway {
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
+    text-align: center;
+    width: 400px;
+    background-color:rgb(107, 89, 191);
+}
+.paintings {
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
+    text-align: center;
+    width: 400px;
+    background-color:white;
+}
+.stars {
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
+    text-align: center;
+    width: 400px;
+    background-color:white;
+}
+.rock {
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
+    text-align: center;
+    width: 400px;
+    background-color:rgb(107, 89, 191);
+}
+.mercury {
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
+    text-align: center;
+    width: 400px;
+    background-color:rgb(107, 89, 191) ;
+}
+.true {
+    border: 2px solid blue;
+    box-shadow: 2px 2px rgb(30, 70, 157);
+    text-align: center;
+    width: 400px;
+    background-color:white;
 }
 P, ul{
 font-family: "Open Sans", sans-serif;
 letter-spacing: 0.5px;
+color: rgb(146, 138, 138);
 }
 h1 {
-    color: rgb(139, 148, 177);
-    text-align: right;
+    color: rgb(232, 229, 213);
+    text-align: center;
     letter-spacing: 2px;
     font-size: 40px;
-    text-shadow: 2px 2px black;
+    text-shadow: 2px 2px rgba(255, 255, 255, 0);
 }
 h2 {
     font-variant: small-caps;
@@ -50,4 +117,19 @@ h2 {
 
 html {
     font-family: 'Courier New', Courier, monospace;
+}
+.percentage {
+    width: 400px;
+
+}
+.Farukh {
+    width: 400px;
+}
+.response {
+    width: 400px;
+}
+.mark {
+    border-radius: 8px;
+    color: rgb(56, 51, 51);
+    background-color: darkgray;
 }
